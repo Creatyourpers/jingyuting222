@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到本人的博客
+### 个人信息
+#### 姓名：景宇庭
+#### 性别：男
+#### 性格：活泼开朗，积极乐观，风趣幽默
+#### 年龄：21岁
+#### 学历：本科
+#### 学校：石家庄铁道大学
+#### 专业：软件工程专业
+#### 地址：石家庄北二环东路十七号
+#### QQ：2667430123
+#### 电话：15632139315
+#### 邮箱：2749167522@qq.com
 
-You can use the [editor on GitHub](https://github.com/Creatyourpers/jingyuting222/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 学习情况
+成绩较好，综合平均分数在80分以上。能熟练掌握并使用专业知识。
+### 社会活动情况
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 专业实践情况
+### 专业技能展示
+### 专业博客发表
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Creatyourpers/jingyuting222/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
